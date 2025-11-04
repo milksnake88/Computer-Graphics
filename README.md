@@ -17,7 +17,9 @@ Features include **multiple light sources**, **wireframe/solid toggle**, and **s
 - Multiple light sources (directional + point lights)  
 - Toggle between wireframe/solid mode (`Z` key) and shading modes (`S` key)
 
-🎥 **Demo Video**  
+🎥 **Demo Video** 
+![ezgif-6777544f541e10](https://github.com/user-attachments/assets/54f167cb-edcd-44c4-86a5-0a003be7133d)
+
 [![OBJ Rendering Demo](https://img.youtube.com/vi/AJb_own4frw/hqdefault.jpg)](https://youtu.be/AJb_own4frw)
 
 ---
@@ -35,6 +37,8 @@ Supports both *line rendering* and *box rendering* modes, and allows switching b
 - Optional OBJ body parts rendering (`O` key)
 
 🎥 **Demo Video**  
+![내-동영상](https://github.com/user-attachments/assets/7b6124e2-b54b-418c-a8f5-ea0f6ef5d698)
+
 [![BVH Motion Demo](https://img.youtube.com/vi/ZMB0ilohrlE/hqdefault.jpg)](https://youtu.be/ZMB0ilohrlE)
 
 ---
