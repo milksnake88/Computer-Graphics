@@ -1,4 +1,4 @@
-# 🎨 Computer Graphics Projects
+# 🎨 Computer Graphics Class Projects (2022_CSE4020_2016026608)
 
 This repository contains two OpenGL-based projects developed for the Computer Graphics course.  
 Both projects focus on **real-time 3D rendering**, **animation**, and **interactive visualization**.
@@ -43,3 +43,8 @@ Supports both *line rendering* and *box rendering* modes, and allows switching b
 
 🧩 *Built with Python (OpenGL), GLFW, and NumPy for matrix & vector operations.*  
 📚 *Projects completed as part of the Computer Graphics course.*
+
+
+---
+
+# 🎨 Computer Graphics Lab Projects (2022_CSE4020_2016026608)
