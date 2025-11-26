@@ -8,7 +8,7 @@ Both projects focus on **real-time 3D rendering**, **animation**, and **interact
 ## OBJ Rendering Viewer
 
 **Description**  
-Implemented a real-time 3D viewer using **OpenGL**, supporting both *single mesh rendering* and *hierarchical model animation* modes.  
+Implemented a **real-time 3D viewer** using OpenGL, supporting both *single mesh rendering* and *hierarchical model animation* modes.  
 Features include **multiple light sources**, **wireframe/solid toggle**, and **smooth shading control** using normal data.
 
 **Key Features**
@@ -26,7 +26,7 @@ Features include **multiple light sources**, **wireframe/solid toggle**, and **s
 ## BVH Motion Viewer
 
 **Description**  
-Developed a **BVH motion viewer** using OpenGL that parses and visualizes skeletal motion data in real time.  
+Implemented a **BVH motion viewer** using OpenGL that parses and visualizes skeletal motion data in real time.  
 Supports both *line rendering* and *box rendering* modes, and allows switching between them during execution.
 
 **Key Features**
