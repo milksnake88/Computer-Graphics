@@ -1,4 +1,4 @@
-# ⚙️ Computer Graphics Course Projects (2022_CSE4020_2016026608)
+# ⚙️ Computer Graphics Course Projects
 
 This repository contains two OpenGL-based projects developed for the Computer Graphics course.  
 Both projects focus on **real-time 3D rendering**, **animation**, and **interactive visualization**.
